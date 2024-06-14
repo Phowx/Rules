@@ -1,5 +1,6 @@
-#规则数量:356
 
+DOMAIN-KEYWORD,doubleclick.
+DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
 DOMAIN-KEYWORD,-tos.pstatp.com
