@@ -1,5 +1,5 @@
-#!name=自用广告过滤
-#!desc=自用广告过滤
+#!name=Customized Ad Filtering
+#!desc=Customized Ad Filtering
 
 [URL Rewrite]
 ^https?:\/\/gab\.122\.gov\.cn\/eapp\/m\/sysquery\/adver$ - reject
