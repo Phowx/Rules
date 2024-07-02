@@ -357,3 +357,11 @@ IP-CIDR,122.229.29.89/32
 DOMAIN,ad.zijieapi.com
 DOMAIN-SUFFIX,-normal-lq.zijieapi.com
 DOMAIN-KEYWORD,ad-sign.byteimg.com
+DOMAIN-SUFFIX,umengcloud.com,REJECT // Added for: https://cnlogs.umengcloud.com/unify_logs
+DOMAIN-SUFFIX,admobile.top,REJECT // Added for: http://ax.admobile.top/public/rab2.shtml?machineId=535ca6bea6fc91bf70a3e162b13860dd&requestId=8e3890ef24ea4d3ca3ae51f5f32e7c64&network=wifi&
+DOMAIN-SUFFIX,1rtb.net,REJECT // Added for: https://zlsdk.1rtb.net/sdk/config
+DOMAIN-SUFFIX,umeng.com,REJECT // Added for: https://utoken.umeng.com/anti/updateZdata
+DOMAIN-SUFFIX,1rtb.com,REJECT // Added for: https://cdn.1rtb.com/sources/system_logo/am.png
+DOMAIN-SUFFIX,sm.cn,REJECT // Added for: https://content-understand-strategy.sm.cn/4_6_cover/20240622/211211635_137107370/0_1024/2406214cd5e3d99faec39168b3c4c95f3e8039_ColorfulBig.jpg
+DOMAIN,tcbox.baidu.com,REJECT // Added for: https://tcbox.baidu.com/ztbox?action=zubc&appname=wangpan&cfrom=1026350h&from=1026350h&network=1_0&ua=393_852_iphone_12.12.0.10_0&uid=263BF7E3E36C35321CD0053A2D94359102DEECE26FLOOPOQHAJ&ut=iPhone16%2C1_17.5.1&zid=ftZasB_hlcuo1ff-Izw1hndwe26CzWec-hGMDF7r846DcUS7OGbAau3fhg6cnNxRQ5Rg0oyBZpuf2GhJJrxW8HQ
+DOMAIN,tnc3-alisc1.zijieapi.com,REJECT // Added for: https://tnc3-alisc1.zijieapi.com/get_domains/v4/?aid=1371&channel=app_store&custom_info_1=&device_platform=iphone&version_code=5911
