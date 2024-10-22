@@ -2,7 +2,7 @@
 #!desc = 净化高德地图
 
 [Rule]
-AND,((URL-REGEX,^http:\/\/(?:[\d\.]+|amdc\.m\.taobao\.com)\/amdc\/mobileDispatch), (USER-AGENT,AMapiPhone*)),REJECT
+AND,((URL-REGEX,^http:\/\/(?:[\d\.]+|amdc\.m\.taobao\.com)\/amdc\/mobileDispatch), (USER-AGENT,AMapiPhone*)),REJECT,pre-matching
 
 [Map Local]
 ^https:\/\/m5\.amap\.com\/ws\/shield\/search\/new_hotword\? data-type=text data="{}" status-code=200
