@@ -1,0 +1,11 @@
+# steam
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steampowered.com
+# greasyfork
+DOMAIN-SUFFIX,greasyfork.org
+# 品技
+DOMAIN-SUFFIX,tekqart.com
+# Termius
+DOMAIN-SUFFIX,mixpanel.com,Proxy
+DOMAIN-SUFFIX,split.io,Proxy
