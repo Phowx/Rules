@@ -6,3 +6,7 @@ DOMAIN-SUFFIX,dlercloud.com
 DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,gying.net
 DOMAIN-SUFFIX,tutu.pm
+
+PROCESS-NAME,PikPak Desktop.app
+PROCESS-NAME,PikPak.app
+PROCESS-NAME,Speedtest
