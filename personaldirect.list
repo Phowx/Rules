@@ -1,8 +1,0 @@
-# Stats网络模块IP检测
-DOMAIN-SUFFIX,serhiy.io
-DOMAIN-SUFFIX,ip.im
-# 进程
-PROCESS-NAME,WeChat
-PROCESS-NAME,QQ
-PROCESS-NAME,QQ Helper
-PROCESS-NAME,RustDesk
