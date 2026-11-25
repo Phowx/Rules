@@ -1,0 +1,15 @@
+# TestFlight
+PROCESS-NAME,TestFlight
+# Homebrew
+DOMAIN-SUFFIX,brew.sh
+# Liquipedia Dota2
+DOMAIN-SUFFIX,liquipedia.net
+# Steam Store
+PROCESS-NAME,"Steam Helper"
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-KEYWORD,steamcommunity
+DOMAIN-SUFFIX,steampowered.com
+# Termius
+DOMAIN-SUFFIX,split.io
+DOMAIN-SUFFIX,istatmenus.app
