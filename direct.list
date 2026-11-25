@@ -1,0 +1,18 @@
+# Other Direct
+DOMAIN-SUFFIX,b-cdn.net
+DOMAIN-SUFFIX,tekqart.com
+DOMAIN-SUFFIX,technical.city
+
+# Personal Domain
+DOMAIN-SUFFIX,marhome.vip
+# Quark Disk
+PROCESS-NAME,Quark
+PROCESS-NAME,"Quark Helper"
+# UU Remote
+PROCESS-NAME,UURemote
+PROCESS-NAME,UURemoteDaemon
+PROCESS-NAME,UURemoteServer
+# VidHub
+PROCESS-NAME,MediaCenter
+# Steam main process
+PROCESS-NAME,steam_osx
