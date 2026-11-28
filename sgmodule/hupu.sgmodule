@@ -1,5 +1,10 @@
-#!name=虎扑 · 拦截广告接口
+#!name=虎扑 · 拦截广告
 #!desc=拦截 goblin.hupu.com 的 interfaceAd/getOther 接口。需开启重写和 MitM。
+
+[Rule]
+DOMAIN,e-goblin.hupu.com
+DOMAIN,collect.hupu.com
+DOMAIN,ccdace.hupu.com
 
 [URL Rewrite]
 ^https://goblin\.hupu\.com/\d+/\d+(?:\.\d+)+/interfaceAd/getOther(?:/v\d+)?(?:\?|$) _ reject
